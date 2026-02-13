@@ -12,7 +12,6 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { Menu, X, User as UserIcon, LogOut } from 'lucide-react';
 import { useState } from 'react';
-import { cn } from '@/lib/utils';
 import { NotificationPanel } from '@/components/NotificationPanel';
 
 export function Navbar() {
